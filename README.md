@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhishekprakash256
 - 👀 I’m interested in solving real world problems by using computational science
-- 🌱 I’m currently learning deep learning 
+- 🌱 I’m currently learning deep learning and python libraries 
 - 💞️ I’m looking to collaborate solving real world problems using machine learning or deep learning techiques
 - 📫 How to reach me @meabhi_ on twitter.
 
