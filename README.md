@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I am Abhishek
 #### Currently a masters student at Florida State University
-I really enjoy learning and implementing new Algorithms for solving real world problems. I also enjoy front end web development and UI designing also trying to contribute to open source projects.
+I really enjoy learning and implementing new Algorithms for solving real world problems. I also enjoy front end web development and UI designing also trying to contribute to open source world.
 
 Skills: Python / Pytorch / JS / HTML / CSS / C++ 
 
