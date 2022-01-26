@@ -10,13 +10,13 @@ Skills: Python / Pytorch / JS / HTML / CSS / C++
 - 👯 I’m looking to collaborate on solving real world problems using machine learning or deep learning techiques 
 - 💬 Ask me about anything you like  
 - 📫 How to reach me: @meabhi_ on twitter. 
-- ⚡ Fun fact: Lifting, soccer and Arts and designing 
+- ⚡ Fun fact: Lifting, Football and Arts and designing 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhishekprakash256)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek256)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek256)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprakash256)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekprakash256&show_icons=true)  
+
 
 
