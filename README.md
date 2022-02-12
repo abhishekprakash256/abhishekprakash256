@@ -3,7 +3,7 @@
 #### Currently a masters student at Florida State University
 I really enjoy learning and implementing new Algorithms for solving real world problems. I also enjoy front end web development and UI designing also trying to contribute to open source world.
 
-Skills: Python / Pytorch / JS / HTML / CSS / C++ 
+Skills: Python / Pytorch / JS / HTML / CSS / C
 
 - 🔭 I’m currently working on image super resolution problem 
 - 🌱 I’m currently learning deep learning and python machine learning libraries 
