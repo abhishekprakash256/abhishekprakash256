@@ -5,8 +5,8 @@ I really enjoy learning and implementing new Algorithms for solving real world p
 
 Skills: Python / Pytorch / JS / HTML / CSS / C
 
-- 🔭 I’m currently working on image super resolution problem 
 - 🌱 I’m currently learning deep learning and python machine learning libraries 
+- I am also intrested in Cloud Platforms and infrastructure designing 
 - 👯 I’m looking to collaborate on solving real world problems using machine learning or deep learning techiques 
 - 💬 Ask me about anything you like  
 - 📫 How to reach me: @meabhi_ on twitter. 
