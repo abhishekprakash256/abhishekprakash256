@@ -1,10 +1,10 @@
 ### Hi there 👋, I am Abhishek
 
-#### Currently a working Professional with keen intrest in Machine Learning, Software developemnt. 
+#### Currently a working Professional with keen interest in Machine Learning and Software developemnt. 
 
-I'm passionate about learning and implementing new algorithms to tackle real-world challenges. Beyond that, I find joy in front-end web development and UI design, actively seeking ways to contribute to the open-source community.
+I'm passionate about learning and implementing new algorithms to tackle real-world challenges. Beyond that, I find joy in Kaggle competetions and learning new tech stacks, actively seeking ways to contribute to the open-source community.
 
-**Skills:** Python / Pytorch / JS / ML / ANSIBLE
+**Skills:** Python / Pytorch / JS / ML / ANSIBLE 
 
 - 🌱 I’m currently diving into the realms of deep learning and Python machine learning libraries.
 - 💻 Exploring Cloud Platforms and honing skills in infrastructure design.
