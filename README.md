@@ -1,25 +1,27 @@
-### Hi there 👋, I am Abhishek
+Here’s an updated version of your introduction based on your resume:  
 
-#### Currently a working Professional with keen interest in Machine Learning and Software developemnt. 
+---
 
-I'm passionate about learning and implementing new algorithms to tackle real-world challenges. Beyond that, I find joy in Kaggle competetions and learning new tech stacks, actively seeking ways to contribute to the open-source community.
+### Hi there 👋, I am Abhishek  
 
-**Skills:** Python / Pytorch / JS / ML / ANSIBLE 
+#### A Passionate Software Engineer and Machine Learning Enthusiast  
 
-- 🌱 I’m currently diving into the realms of deep learning and Python machine learning libraries.
-- 💻 Exploring Cloud Platforms and honing skills in infrastructure design.
-- 👯 I’m eager to collaborate on solving real-world problems using machine learning or deep learning techniques.
-- 💬 Feel free to ask me about anything!
-- 📫 Reach me at: [@meabhi_](https://twitter.com/meabhi_) on Twitter.
-- ⚡ Fun fact: I enjoy lifting, football, and the world of arts and design.
+With a Master’s degree in Computer Science from Florida State University and over two years of professional experience, I specialize in designing scalable software systems, optimizing machine learning models, and implementing cloud-native solutions. My goal is to solve real-world problems using cutting-edge technologies and contribute to impactful, innovative projects.  
 
-As an industry professional navigating the vast tech landscape, my interests lie in machine learning, DevOps, and optimizing algorithms for enhanced performance. Let's connect and explore the possibilities of tech-driven solutions!
+**Skills:** Python / PyTorch / TensorFlow / ML / Deep Learning / Docker / Ansible / Flask / AWS / SQL / NoSQL  
 
+- 🌱 I’m currently enhancing my expertise in MLOps and large-scale model training.  
+- 💻 Exploring Cloud Platforms, CI/CD pipelines, and infrastructure-as-code practices.  
+- 👯 Open to collaborating on machine learning projects, DevOps automation, or cloud-based applications.  
+- 💬 Let’s chat about AI/ML, DevOps, or building efficient data pipelines.  
+- ⚡ Fun fact: I’m an avid football fan and enjoy exploring art and design in my downtime.  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhishek256)  
+I’m passionate about leveraging technology to deliver innovative solutions. From building my portfolio website to deploying scalable services, I thrive in solving complex challenges with clean, maintainable code. Let’s connect to explore how we can build impactful tech solutions together!  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprakash256)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/abhishek256)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprakash256)](https://github.com/anuraghazra/github-readme-stats)  
 
+---  
 
-
+This version emphasizes your professional background, technical expertise, and career focus, aligning it closely with your resume. Let me know if you'd like further refinements!
