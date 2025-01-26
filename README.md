@@ -1,7 +1,3 @@
-Here’s an updated version of your introduction based on your resume:  
-
----
-
 ### Hi there 👋, I am Abhishek  
 
 #### A Passionate Software Engineer and Machine Learning Enthusiast  
