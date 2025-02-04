@@ -1,7 +1,3 @@
-Here's an updated version of your introduction that includes a focus on full-stack development:
-
----
-
 ### Hi there 👋, I am Abhishek Prakash
 
 #### A Software Engineer | Full Stack Developer | MLOps Enthusiast | Cloud Solution Architect
