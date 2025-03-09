@@ -16,6 +16,14 @@ I hold a **Master’s degree in Computer Science from Florida State University**
 
 ---
 
+## 🚀 Achievements & Impact  
+- **🚀 Scaled Website SEO**: Improved site ranking from **6th to 2nd position**, increasing revenue by **$5 million**.  
+- **⚡ Automated Plugin Audit System**: Reduced plugin audit time by **75%** for 50+ plugins.  
+- **🔧 Built Scalable ML Pipelines**: Designed and deployed **end-to-end ML models** with MLOps best practices.  
+- **🌍 Open Source Contributions**: Actively contribute to DevOps, cloud, and ML-related projects.  
+
+---
+
 ## 📌 About Me  
 - 🌱 **Currently**: Enhancing expertise in **MLOps**, **large-scale model training**, and **full-stack development** with an emphasis on **cloud architecture** and **serverless applications**.  
 - 💻 **Exploring**: Deepening knowledge in **cloud-native solutions**, **full-stack development frameworks**, **infrastructure-as-code (IaC)**, and **automation**.  
