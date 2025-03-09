@@ -2,7 +2,7 @@
 
 #### A Software Engineer | Full Stack Developer | MLOps Enthusiast | Cloud Solution Architect  
 
-I hold a Master’s degree in Computer Science from Florida State University and have over two years of industry experience specializing in designing, developing, and deploying scalable software solutions. I focus on **full-stack development**, **cloud-native applications**, **MLOps**, and **data engineering**, delivering impactful, high-performance systems.
+I hold a **Master’s degree in Computer Science from Florida State University** and bring over **two years of industry experience** in architecting, developing, and deploying **scalable, high-performance software solutions**. My expertise spans **full-stack development, cloud-native applications, MLOps, and data engineering**, where I leverage cutting-edge technologies to build **robust, efficient, and automation-driven systems**. Passionate about **cloud computing, infrastructure as code (IaC), and AI-driven applications**, I thrive on solving complex engineering challenges and optimizing workflows for seamless **scalability, security, and performance**.
 
 ---
 
