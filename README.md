@@ -23,6 +23,12 @@ I hold a **Master’s degree in Computer Science from Florida State University**
 - 💬 **Let’s connect**: I'm always open to discussing **AI/ML**, **cloud solutions**, **full-stack development**, and how to build efficient and scalable systems.  
 - ⚡ **Fun Fact**: I enjoy **football** and exploring **art and design** during my downtime for creative inspiration.  
 
+## 🌎 Explore My Work  
+- **Portfolio Website**: [My Personal Website](https://meabhi.me)  
+- **GitHub Repos**: [Top Projects](https://github.com/abhishekprakash256)  
+- **Technical Blog**: [Medium Articles](https://medium.com/@abhishek256)  
+- **LinkedIn**: [Connect with Me](https://www.linkedin.com/in/abhishek256)  
+
 ---
 
 ## 📊 GitHub Stats  
