@@ -8,11 +8,11 @@ I hold a **Master’s degree in Computer Science from Florida State University**
 
 ## 🚀 Core Competencies  
 - **Programming Languages**: Python, JavaScript, TypeScript, C++, Shell Scripting  
-- **Full Stack Development**: Flask, React, Node.js, Express.js, RESTful APIs, HTML, CSS, Bootstrap  
-- **Cloud Technologies & DevOps**: AWS, Docker, Kubernetes, Terraform, Ansible, CI/CD (GitHub Actions, GitLab CI/CD)  
-- **Machine Learning & Data Science**: PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, OpenCV, Hugging Face  
-- **Database Management**: SQL, NoSQL (MongoDB, Redis, PostgreSQL, MySQL, Firebase)  
-- **Infrastructure & Monitoring**: Nginx, Prometheus, Grafana, ELK Stack, CloudWatch  
+- **Full Stack Development**: Flask, React, Node.js, RESTful APIs, NextJS , NestJS , HTML, CSS, Bootstrap  
+- **Cloud Technologies & DevOps**: AWS, Docker, Ansible, CI/CD (GitHub Actions, GitLab CI/CD)  
+- **Machine Learning & Data Science**: PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, OpenCV
+- **Database Management**: SQL, NoSQL (MongoDB, Redis, PostgreSQL, MySQL)  
+- **Infrastructure & Monitoring**: Nginx, , Grafana
 
 ---
 
