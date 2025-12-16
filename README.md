@@ -40,8 +40,7 @@ I hold a **Master’s degree in Computer Science from Florida State University**
 ---
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprakash256&layout=compact&theme=tokyonight)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekprakash256&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprakash256&layout=compact&theme=tokyonight) 
 
 ---
 
